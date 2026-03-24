@@ -1,2 +1,2 @@
-#include<stdio.h>
-double calculatedTicketCost(double ticketprice)
+// #include<stdio.h>
+// double calculatedTicketCost(double ticketprice)
